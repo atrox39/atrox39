@@ -24,8 +24,7 @@ Dirijo el desarrollo de innovación tecnológica en mi propia empresa de softwar
 
 ## 📈 Estadísticas de GitHub
 
-![Estadísticas de atrox39](https://github-readme-stats.vercel.app/api?username=atrox39&show_icons=true&theme=radium&hide_border=true)
-![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=atrox39&layout=compact&theme=radium&hide_border=true)
+![Atrox39 GitHub stats](https://github-readme-stats.vercel.app/api?username=atrox39&show_icons=true&theme=radical)
 
 ---
 *Explora mis repositorios para ver herramientas de infraestructura, proyectos de hardware y soluciones de software escalables.*
