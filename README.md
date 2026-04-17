@@ -13,18 +13,34 @@ Dirijo el desarrollo de innovación tecnológica en mi propia empresa de softwar
 ## 💻 Tech Stack y Herramientas
 
 **Lenguajes Principales**
-* Go (Golang) | C++ | Rust
-* JavaScript / TypeScript | Dart
-* Python | C# | Java | PHP
+<p>
+  <img src="https://img.shields.io/badge/Go-000000?style=for-the-badge&logo=go&logoColor=A855F7" />
+  <img src="https://img.shields.io/badge/C++-000000?style=for-the-badge&logo=c%2B%2B&logoColor=A855F7" />
+  <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=A855F7" />
+  <img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=A855F7" />
+  <img src="https://img.shields.io/badge/Dart-000000?style=for-the-badge&logo=dart&logoColor=A855F7" />
+  <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=A855F7" />
+  <img src="https://img.shields.io/badge/C%23-000000?style=for-the-badge&logo=c-sharp&logoColor=A855F7" />
+</p>
 
-**Ecosistema de Desarrollo**
-* **Frontend:** React | Next.js | Vite
-* **DevOps & Infraestructura:** Docker | Jenkins | CI/CD | Traefik | Coolify | Caddy | VPS
-* **Bases de Datos:** SQL Server | MySQL | MongoDB | Prisma ORM | Modelado relacional y no relacional
+**DevOps & Infraestructura**
+<p>
+  <img src="https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=A855F7" />
+  <img src="https://img.shields.io/badge/Jenkins-000000?style=for-the-badge&logo=jenkins&logoColor=A855F7" />
+  <img src="https://img.shields.io/badge/Traefik-000000?style=for-the-badge&logo=traefikProxy&logoColor=A855F7" />
+</p>
+
+**Bases de Datos & Frontend**
+<p>
+  <img src="https://img.shields.io/badge/MongoDB-000000?style=for-the-badge&logo=mongodb&logoColor=A855F7" />
+  <img src="https://img.shields.io/badge/Prisma-000000?style=for-the-badge&logo=prisma&logoColor=A855F7" />
+  <img src="https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=A855F7" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=A855F7" />
+</p>
 
 ## 📈 Estadísticas de GitHub
 
-![Atrox39 GitHub stats](https://github-readme-stats.vercel.app/api?username=atrox39&show_icons=true&theme=radical)
+![Atrox39 GitHub stats](https://github-readme-stats.vercel.app/api?username=atrox39&show_icons=true&bg_color=0D1117&title_color=A855F7&text_color=9CA3AF&icon_color=A855F7&border_color=581C87&border_radius=10)
 
 ---
 *Explora mis repositorios para ver herramientas de infraestructura, proyectos de hardware y soluciones de software escalables.*
